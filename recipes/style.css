@@ -1,0 +1,19 @@
+#body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head {
+    color: red;
+    text-align: center;
+}
+button {
+    background-color: green;
+}
+.pozole,
+.spaghetti,
+.chicken {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
